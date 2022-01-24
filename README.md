@@ -3,3 +3,4 @@
 + This work has been published in [surface science](https://www.sciencedirect.com/science/article/pii/S0039602821001424).
 ![Screen Shot 2022-01-24 at 5 57 11 PM](https://user-images.githubusercontent.com/42945839/150878841-951d9b16-8797-4a57-9599-2fbd150ba095.png)
 + The graph shows the island distribution during submololayer growth at different attachment barrier. 
++ [squaren](squaren.cp) gives square island into graphical form as shown in above figure. 
